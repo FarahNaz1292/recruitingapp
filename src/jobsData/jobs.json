@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "img": "https://as1.ftcdn.net/v2/jpg/02/92/88/72/1000_F_292887204_2wH041phSQo70eqaE9GRqFvn5MmQ4B8w.jpg",
+    "job_title": "Frontend Developer",
+    "job_description": "Responsible for implementing visual elements that users see and interact with in a web application. Strong skills in HTML, CSS, and JavaScript are required.",
+    "company": "Tech Innovators Inc.",
+    "location": "New York, USA",
+    "vacancy": 3,
+    "salary": "$70,000 - $90,000",
+    "type": "Full-time",
+    "experience_level": "Mid-level",
+    "requirements": [
+      "3+ years of experience in frontend development",
+      "Proficient in React, Redux, and TypeScript",
+      "Experience with RESTful APIs",
+      "Strong understanding of responsive design"
+    ],
+    "posted_date": "2024-09-05",
+    "application_deadline": "2024-09-30",
+    "contact_email": "jobs@techinnovators.com"
+  },
+  {
+    "id": 2,
+    "img": "https://img.freepik.com/free-vector/back-end-development-concept-software-development-process-website-interface-design-improvement-programming-coding-it-profession-isolated-flat-vector-illustration_613284-1064.jpg",
+    "job_title": "Backend Developer",
+    "job_description": "Develop server-side logic, ensuring high performance and responsiveness to requests from the frontend.",
+    "company": "DataFlow Systems",
+    "location": "San Francisco, USA",
+    "vacancy": 2,
+    "salary": "$80,000 - $100,000",
+    "type": "Remote",
+    "experience_level": "Senior-level",
+    "requirements": [
+      "5+ years of experience in backend development",
+      "Strong knowledge of Node.js and Express",
+      "Experience with databases (MongoDB, SQL)",
+      "Understanding of RESTful APIs and microservices architecture"
+    ],
+    "posted_date": "2024-09-01",
+    "application_deadline": "2024-09-25",
+    "contact_email": "careers@dataflowsystems.com"
+  },
+  {
+    "id": 3,
+    "img": "https://dianapps.com/blog/wp-content/uploads/2023/02/Untitled-design-81.png",
+    "job_title": "UI/UX Designer",
+    "job_description": "Create and improve the design of web and mobile applications by crafting user-friendly interfaces and optimizing user experiences.",
+    "company": "Creative Labs",
+    "location": "Remote",
+    "vacancy": 1,
+    "salary": "$60,000 - $80,000",
+    "type": "Contract",
+    "experience_level": "Junior-level",
+    "requirements": [
+      "2+ years of experience in UI/UX design",
+      "Proficient in Figma, Adobe XD, or Sketch",
+      "Strong understanding of design principles",
+      "Ability to work closely with developers"
+    ],
+    "posted_date": "2024-09-10",
+    "application_deadline": "2024-10-05",
+    "contact_email": "hr@creativelabs.com"
+  },
+  {
+    "id": 4,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNmDqOJy3TsFlCzLFIcDl5u-AJdihLczTP122ZrUi4G0lG-Amd_j0BuEYCPorqIFQ8pDo&usqp=CAU",
+    "job_title": "Project Manager",
+    "job_description": "Oversee project planning, scheduling, and execution to ensure timely and successful delivery of software products.",
+    "company": "Agile Solutions",
+    "location": "London, UK",
+    "vacancy": 2,
+    "salary": "£50,000 - £70,000",
+    "type": "Full-time",
+    "experience_level": "Mid-level",
+    "requirements": [
+      "4+ years of experience in project management",
+      "Familiar with Agile methodologies",
+      "Excellent communication and leadership skills",
+      "Experience with project management tools (JIRA, Trello)"
+    ],
+    "posted_date": "2024-09-03",
+    "application_deadline": "2024-09-28",
+    "contact_email": "recruitment@agilesolutions.co.uk"
+  },
+  {
+    "id": 5,
+    "img": "https://www.codemotion.com/magazine/wp-content/uploads/2022/06/Data-Science-cover-896x504.jpg",
+    "job_title": "Data Scientist",
+    "job_description": "Analyze and interpret complex data to help companies make better and more timely decisions.",
+    "company": "Big Data Analytics",
+    "location": "Austin, USA",
+    "vacancy": 4,
+    "salary": "$95,000 - $120,000",
+    "type": "Full-time",
+    "experience_level": "Senior-level",
+    "requirements": [
+      "5+ years of experience in data science",
+      "Proficient in Python, R, and SQL",
+      "Experience with machine learning models",
+      "Knowledge of data visualization tools (Tableau, Power BI)"
+    ],
+    "posted_date": "2024-09-06",
+    "application_deadline": "2024-10-01",
+    "contact_email": "jobs@bigdataanalytics.com"
+  },
+  {
+    "id": 6,
+    "img": "https://images.shiksha.com/mediadata/ugcDocuments/images/wordpressImages/2022_04_DIGITAL-MARKETING-TOOLS-1.jpg",
+    "job_title": "Digital Marketing Specialist",
+    "job_description": "Plan, execute, and manage digital marketing strategies to drive online traffic and customer acquisition.",
+    "company": "Marketing Wizards",
+    "location": "Toronto, Canada",
+    "vacancy": 3,
+    "salary": "CAD 55,000 - 75,000",
+    "type": "Full-time",
+    "experience_level": "Mid-level",
+    "requirements": [
+      "3+ years of experience in digital marketing",
+      "Proficient in Google Ads, SEO, and social media marketing",
+      "Strong understanding of marketing analytics and reporting",
+      "Experience with CRM tools (HubSpot, Salesforce)"
+    ],
+    "posted_date": "2024-09-08",
+    "application_deadline": "2024-09-30",
+    "contact_email": "careers@marketingwizards.ca"
+  },
+  {
+    "id": 7,
+    "img": "https://www.cybintsolutions.com/wp-content/uploads/2020/11/Cyber-Security-Analyst.png",
+    "job_title": "Cybersecurity Analyst",
+    "job_description": "Monitor and protect the organization's IT infrastructure against cyber threats and vulnerabilities.",
+    "company": "SecureNet Solutions",
+    "location": "Berlin, Germany",
+    "vacancy": 2,
+    "salary": "€70,000 - €90,000",
+    "type": "Full-time",
+    "experience_level": "Mid-level",
+    "requirements": [
+      "3+ years of experience in cybersecurity",
+      "Proficient in risk assessment and vulnerability management",
+      "Knowledge of firewalls, VPNs, and intrusion detection systems",
+      "Experience with security tools (Splunk, Wireshark)"
+    ],
+    "posted_date": "2024-09-05",
+    "application_deadline": "2024-09-25",
+    "contact_email": "security@securenetsolutions.de"
+  },
+  {
+    "id": 8,
+    "img": "https://media.licdn.com/dms/image/C4D12AQERznR3SoZ4dQ/article-cover_image-shrink_720_1280/0/1648496257512?e=2147483647&v=beta&t=D1T_Y9q_LAfyd_dm7dCGafMX5NGNYErmm7GsGagMd6Q",
+    "job_title": "HR Manager",
+    "job_description": "Lead the human resources department, ensuring compliance with labor laws and fostering a productive workplace environment.",
+    "company": "Global Enterprises",
+    "location": "Sydney, Australia",
+    "vacancy": 1,
+    "salary": "AUD 80,000 - 110,000",
+    "type": "Full-time",
+    "experience_level": "Mid-level",
+    "requirements": [
+      "4+ years of experience in human resources",
+      "Strong knowledge of Australian labor laws",
+      "Excellent organizational and interpersonal skills",
+      "Experience with HR software (Workday, BambooHR)"
+    ],
+    "posted_date": "2024-09-12",
+    "application_deadline": "2024-10-10",
+    "contact_email": "hr@globalenterprises.com.au"
+  },
+  {
+    "id": 9,
+    "img": "https://www.unosquare.com/wp-content/uploads/2023/10/cloud_engineer.png",
+    "job_title": "Cloud Engineer",
+    "job_description": "Design and manage cloud-based infrastructure solutions for large-scale applications.",
+    "company": "CloudTech Innovations",
+    "location": "Seattle, USA",
+    "vacancy": 2,
+    "salary": "$110,000 - $140,000",
+    "type": "Full-time",
+    "experience_level": "Senior-level",
+    "requirements": [
+      "5+ years of experience in cloud engineering",
+      "Proficient in AWS, Azure, and GCP",
+      "Experience with containerization (Docker, Kubernetes)",
+      "Strong knowledge of cloud security best practices"
+    ],
+    "posted_date": "2024-09-04",
+    "application_deadline": "2024-09-29",
+    "contact_email": "careers@cloudtech.com"
+  },
+  {
+    "id": 10,
+    "img": "https://media.licdn.com/dms/image/D5612AQEC-5ohreN4_A/article-cover_image-shrink_720_1280/0/1690878084402?e=2147483647&v=beta&t=f3dny34u4Kzc8-It4CqaoIuV8pzjE4sPJiLz5M9xV6Q",
+    "job_title": "Content Writer",
+    "job_description": "Create engaging, high-quality content for blogs, social media, and websites.",
+    "company": "Creative Content Co.",
+    "location": "Remote",
+    "vacancy": 5,
+    "salary": "$40,000 - $55,000",
+    "type": "Contract",
+    "experience_level": "Entry-level",
+    "requirements": [
+      "1+ years of experience in content writing",
+      "Excellent writing and editing skills",
+      "Familiar with SEO best practices",
+      "Ability to research and write about various topics"
+    ],
+    "posted_date": "2024-09-09",
+    "application_deadline": "2024-09-30",
+    "contact_email": "content@creativecontentco.com"
+  }
+]
