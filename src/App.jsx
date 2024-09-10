@@ -5,8 +5,9 @@ import Foremployers from "./Components/Foremployers";
 import Aboutus from "./Components/Aboutus";
 import Jobseekers from "./Components/Jobseekers";
 import Contactus from "./Components/Contactus";
-import JobDetails from "./Components/JobDetails";
+
 import Singlepagejob from "./Components/Singlejobpage";
+import JobDetails from "./Components/Jobdetails";
 
 function App() {
   return (
